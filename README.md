@@ -60,7 +60,7 @@ This made later datasets increasingly targeted toward actual model failure modes
 
 Generates synthetic multi-UAV COCO data using copy-paste augmentation.
 
-The script extracts UAV crops from the original dataset, randomly rescales and places them into other images, avoids overlapping existing objects, and automatically generates new COCO annotations. :contentReference[oaicite:5]{index=5}
+The script extracts UAV crops from the original dataset, randomly rescales and places them into other images, avoids overlapping existing objects, and automatically generates new COCO annotations.
 
 ### `train.py`
 
