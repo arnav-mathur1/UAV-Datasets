@@ -8,8 +8,6 @@ Rather than training from a single fixed dataset, I combined multiple UAV datase
 
 Below is a non-comprehensive list of UAV datasets I used and explored in the process.
 
-1## Datasets
-
 1. [Purdue Multi-Target UAV Detection and Tracking Dataset](https://engineering.purdue.edu/~bouman/UAV_Dataset/) — Air-to-air UAV video dataset with annotated target drones, including multi-UAV scenes and small aerial targets.
 
 2. [ARD100 / YOLOMG](https://github.com/Irisky123/YOLOMG) — Air-to-air drone detection dataset used for UAV detection research, with associated training and dataset-processing code.
